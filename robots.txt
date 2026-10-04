@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dimasstudio.web.id/sitemap.xml
+Sitemap: https://www.dimasstudio.web.id/sitemap.xml
